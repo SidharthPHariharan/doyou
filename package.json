@@ -1,0 +1,27 @@
+{
+  "name": "doyou",
+  "version": "1.0.0",
+  "description": "A js file that is supposed to have everything, eveery possible code we write. Its a mega util package. Expected to contain from \"Hello World!\" to ML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidharthPHariharan/doyou.git"
+  },
+  "keywords": [
+    "everything",
+    "all",
+    "all",
+    "knowing",
+    "all",
+    "having"
+  ],
+  "author": "Sidharth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SidharthPHariharan/doyou/issues"
+  },
+  "homepage": "https://github.com/SidharthPHariharan/doyou#readme"
+}
